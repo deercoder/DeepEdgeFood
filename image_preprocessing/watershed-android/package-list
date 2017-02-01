@@ -1,0 +1,6 @@
+com.example.watershed
+org.opencv
+org.opencv.android
+org.opencv.core
+org.opencv.imgcodecs
+org.opencv.imgproc
